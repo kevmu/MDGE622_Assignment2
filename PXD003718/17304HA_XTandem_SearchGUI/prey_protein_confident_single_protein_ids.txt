@@ -1,0 +1,257 @@
+A8BEQ2	Uncharacterized protein (A8BEQ2_GIAIC)	GL50803_101278
+A8B508	Uncharacterized protein (A8B508_GIAIC)	GL50803_9363
+A8B519	Uncharacterized protein (A8B519_GIAIC)	GL50803_14963
+A8B518	Kinesin motor domain-containing protein (A8B518_GIAIC)	GL50803_112846
+A8BW44	Pyruvate kinase (A8BW44_GIAIC)	GL50803_3206
+A8B4Q7	Ankyrin repeat protein 1 (A8B4Q7_GIAIC)	GL50803_17586
+A8BER9	Median body protein (A8BER9_GIAIC)	GL50803_16343
+A8BET4	Phospholipase B-like (A8BET4_GIAIC)	GL50803_115159
+A8B4R5	Uncharacterized protein (A8B4R5_GIAIC)	GL50803_9865
+A8B4R2	Kinase, NEK (A8B4R2_GIAIC)	GL50803_9870
+A8BVU1	PAP-associated domain-containing protein (A8BVU1_GIAIC)	GL50803_16863
+A8BEU7	SH2_2 domain-containing protein (A8BEU7_GIAIC)	GL50803_16317
+A8B549	Uncharacterized protein (A8B549_GIAIC)	GL50803_91324
+A8B4T8	WD_REPEATS_REGION domain-containing protein (A8B4T8_GIAIC)	GL50803_11953
+A8BEW0	Transducin (A8BEW0_GIAIC)	GL50803_9184
+A8B4U1	Uncharacterized protein (A8B4U1_GIAIC)	GL50803_114921
+A8B4W8	ANK_REP_REGION domain-containing protein (A8B4W8_GIAIC)	GL50803_3746
+A8B4X8	Uncharacterized protein (A8B4X8_GIAIC)	GL50803_8745
+A8B4Z7	Kinesin motor domain-containing protein (A8B4Z7_GIAIC)	GL50803_102101
+A8B4Z2	Kinesin motor domain-containing protein (A8B4Z2_GIAIC)	GL50803_6262
+A8B4B6	GPN-loop GTPase (A8B4B6_GIAIC)	GL50803_15164
+A8B4B0	Uncharacterized protein (A8B4B0_GIAIC)	GL50803_102170
+A8B4I3	CoA_binding domain-containing protein (A8B4I3_GIAIC)	GL50803_16667
+A8BEM5	Dynein heavy chain (A8BEM5_GIAIC)	GL50803_40496
+A8BW25	Uncharacterized protein (A8BW25_GIAIC)	GL50803_17627
+A8BFS2	Dynein heavy chain (A8BFS2_GIAIC)	GL50803_101138
+A8BG41	ATP-dependent RNA helicase p54, putative (A8BG41_GIAIC)	GL50803_2098
+A8B5R8	Ankyrin repeat protein 1 (A8B5R8_GIAIC)	GL50803_16537
+A8BWU7	Uncharacterized protein (A8BWU7_GIAIC)	GL50803_24279
+A8BG63	Uncharacterized protein (A8BG63_GIAIC)	GL50803_37452
+A8B5S2	Phosphatidylinositol-4-phosphate 5-kinase, putative (A8B5S2_GIAIC)	GL50803_14628
+A8BFX3	Kinase, NEK (A8BFX3_GIAIC)	GL50803_16824
+A8B686	Uncharacterized protein (A8B686_GIAIC)	GL50803_16353
+A8B5W4	Kinase, NEK (A8B5W4_GIAIC)	GL50803_8152
+A8BXB8	ANK_REP_REGION domain-containing protein (A8BXB8_GIAIC)	GL50803_7414
+A8BGB4	V-type proton ATPase subunit a (A8BGB4_GIAIC)	GL50803_18470
+A8BFF0	CytoDHC cytoplasmic dynein heavy chain (A8BFF0_GIAIC)	GL50803_17478
+A8BFG8	J domain-containing protein (A8BFG8_GIAIC)	GL50803_17483
+A8BFH7	UN_NPL4 domain-containing protein (A8BFH7_GIAIC)	GL50803_94658
+A8BWM8	6-phosphogluconate dehydrogenase, decarboxylating (A8BWM8_GIAIC)	GL50803_14759
+A8B5J7	IPPc domain-containing protein (A8B5J7_GIAIC)	GL50803_9077
+A8BWM5	6-phosphogluconolactonase/Glucose-6-phosphate 1-dehydrogenase (A8BWM5_GIAIC)	GL50803_8682
+A8B5K6	ANK_REP_REGION domain-containing protein (A8B5K6_GIAIC)	GL50803_14859
+A8BWP7	Alanine--tRNA ligase (A8BWP7_GIAIC)	GL50803_96460
+A8B5M1	Oxidored_FMN domain-containing protein (A8B5M1_GIAIC)	GL50803_9719
+A8B5M0	Ankyrin repeat protein 1 (A8B5M0_GIAIC)	GL50803_9720
+A8BX22	Stress-induced-phosphoprotein 1 (A8BX22_GIAIC)	GL50803_27310
+A8B614	Protein kinase domain-containing protein (A8B614_GIAIC)	GL50803_137719
+A8BX42	Uncharacterized protein (A8BX42_GIAIC)	GL50803_23560
+A8B746	Uncharacterized protein (A8B746_GIAIC)	GL50803_15213
+A8B747	Serine/threonine-protein phosphatase (A8B747_GIAIC)	GL50803_15214
+A8BY70	Uncharacterized protein (A8BY70_GIAIC)	GL50803_8627
+A8B767	26S proteasome regulatory subunit, putative (A8B767_GIAIC)	GL50803_91643
+A8B762	HEAT repeat-containing protein 1 (A8B762_GIAIC)	GL50803_103285
+A8BGY3	Translational activator GCN1 (A8BGY3_GIAIC)	GL50803_93275
+A8BGZ9	Uncharacterized protein (A8BGZ9_GIAIC)	GL50803_11380
+A8B6Y0	BEACH domain-containing protein (A8B6Y0_GIAIC)	GL50803_113143
+A8B7A3	Serine carboxypeptidase (A8B7A3_GIAIC)	GL50803_10843
+A8BGL6	Kinase, SCY1 (A8BGL6_GIAIC)	GL50803_8805
+A8BXP9	Kinase, NEK (A8BXP9_GIAIC)	GL50803_8445
+A8BH18	Kinase, NEK (A8BH18_GIAIC)	GL50803_11390
+A8BH31	CCT-beta (A8BH31_GIAIC)	GL50803_11397
+A8B6P7	ABC transporter domain-containing protein (A8B6P7_GIAIC)	GL50803_8227
+A8B6P4	Kinase, NEK (A8B6P4_GIAIC)	GL50803_87677
+A8B724	Uncharacterized protein (A8B724_GIAIC)	GL50803_90434
+A8BY54	Leucyl-tRNA synthetase (A8BY54_GIAIC)	GL50803_8621
+A8BH36	Kinesin motor domain-containing protein (A8BH36_GIAIC)	GL50803_16425
+A8BGS8	ANAPC4_WD40 domain-containing protein (A8BGS8_GIAIC)	GL50803_16709
+A8BHW1	Protein kinase domain-containing protein (A8BHW1_GIAIC)	GL50803_16034
+A8B867	Uncharacterized protein (A8B867_GIAIC)	GL50803_92132
+A8B7V7	Ankyrin repeat protein 1 (A8B7V7_GIAIC)	GL50803_137703
+A8BHY1	ANK_REP_REGION domain-containing protein (A8BHY1_GIAIC)	GL50803_93011
+A8B7Z1	Protein kinase domain-containing protein (A8B7Z1_GIAIC)	GL50803_10893
+A8BIB3	Kinase, NEK (A8BIB3_GIAIC)	GL50803_16460
+A8BIF0	5' nucleotidase family protein (A8BIF0_GIAIC)	GL50803_92645
+A8BZI8	Protein kinase domain-containing protein (A8BZI8_GIAIC)	GL50803_9658
+A8B8F4	Protein transport protein SEC23 (A8B8F4_GIAIC)	GL50803_9376
+A8BHG1	V-ATPase_H_C domain-containing protein (A8BHG1_GIAIC)	GL50803_14961
+A8BYL9	Deoxyribonuclease, TatD family (A8BYL9_GIAIC)	GL50803_95789
+A8B7M0	Alpha-3 giardin (A8B7M0_GIAIC)	GL50803_11683
+A8B827	DNA-directed RNA polymerase subunit beta (A8B827_GIAIC)	GL50803_29436
+A8BYT7	Uncharacterized protein (A8BYT7_GIAIC)	GL50803_137753
+A8BZ69	Uncharacterized protein (A8BZ69_GIAIC)	GL50803_114498
+A8BHU2	Uncharacterized protein (A8BHU2_GIAIC)	GL50803_16902
+A8BZ74	Yip1 domain-containing protein (A8BZ74_GIAIC)	GL50803_12945
+A8B852	Pyruvate-flavodoxin oxidoreductase (A8B852_GIAIC)	GL50803_17063
+A8BRJ7	Uncharacterized protein (A8BRJ7_GIAIC)	GL50803_12867
+A8BAK9	Protein phosphatase 2A B' regulatory subunit Wdb1 (A8BAK9_GIAIC)	GL50803_16443
+A8BAM2	Ubiquitin-like domain-containing protein (A8BAM2_GIAIC)	GL50803_115337
+A8BRP6	Uncharacterized protein (A8BRP6_GIAIC)	GL50803_7188
+A8BRQ2	Glutamate synthase (A8BRQ2_GIAIC)	GL50803_7195
+A8BB37	Kinase, AGC NDR (A8BB37_GIAIC)	GL50803_8587
+A8BAR6	Adaptin_N domain-containing protein (A8BAR6_GIAIC)	GL50803_17304
+A8BAR3	ABC transporter domain-containing protein (A8BAR3_GIAIC)	GL50803_92223
+A8BAT6	Cation-transporting ATPase 2, putative (A8BAT6_GIAIC)	GL50803_92246
+A8BAU7	CCT-theta (A8BAU7_GIAIC)	GL50803_13500
+A8BAU3	Protein kinase domain-containing protein (A8BAU3_GIAIC)	GL50803_113456
+A8BRV7	Protein kinase domain-containing protein (A8BRV7_GIAIC)	GL50803_13921
+A8BS83	S1 motif domain-containing protein (A8BS83_GIAIC)	GL50803_14702
+A8BRW1	Uncharacterized protein (A8BRW1_GIAIC)	GL50803_13922
+A8BB83	Ankyrin repeat protein 1 (A8BB83_GIAIC)	GL50803_3147
+A8BA81	Uncharacterized protein (A8BA81_GIAIC)	GL50803_40067
+A8BQY8	Putative Flagellar C1a complex subunit C1a-32 (A8BQY8_GIAIC)	GL50803_13262
+A0A644EY11	Ankyrin repeat protein 3 (A0A644EY11_GIAIC)	GL50803_0061564
+D3KGH9	Uncharacterized protein (D3KGH9_GIAIC)	GL50803_34701
+A8BRB8	Chromodomain helicase-DNA-binding protein, putative (A8BRB8_GIAIC)	GL50803_112978
+D3KGV4	Uncharacterized protein (D3KGV4_GIAIC)	GL50803_114242
+D3KH63	Uncharacterized protein (D3KH63_GIAIC)	GL50803_28954
+A8BAD0	Uncharacterized protein (A8BAD0_GIAIC)	GL50803_17255
+A8BAF3	Peptidylprolyl isomerase (A8BAF3_GIAIC)	GL50803_3643
+A8BAF1	IFT complex A (A8BAF1_GIAIC)	GL50803_17251
+A8BSL8	Kinase, NEK (A8BSL8_GIAIC)	GL50803_114535
+A8BBN0	Nop domain-containing protein (A8BBN0_GIAIC)	GL50803_5359
+A8BBP6	UBA_e1_C domain-containing protein (A8BBP6_GIAIC)	GL50803_10661
+A8BC13	PGM_PMM_I domain-containing protein (A8BC13_GIAIC)	GL50803_11448
+A8BT37	WD_REPEATS_REGION domain-containing protein (A8BT37_GIAIC)	GL50803_6939
+A8BSS7	ANK_REP_REGION domain-containing protein (A8BSS7_GIAIC)	GL50803_21505
+A8BBV7	Uncharacterized protein (A8BBV7_GIAIC)	GL50803_137712
+A8BT82	Uncharacterized protein (A8BT82_GIAIC)	GL50803_16963
+A8B1U4	IFT complex B (A8B1U4_GIAIC)	GL50803_14713
+A8BC94	Uncharacterized protein (A8BC94_GIAIC)	GL50803_17172
+A8B1V5	Aspartate aminotransferase (A8B1V5_GIAIC)	GL50803_91056
+A8B299	MFS domain-containing protein (A8B299_GIAIC)	GL50803_11540
+A8B296	IFT81_CH domain-containing protein (A8B296_GIAIC)	GL50803_15428
+A8BAZ4	Uncharacterized protein (A8BAZ4_GIAIC)	GL50803_15289
+A8BBC6	L-serine dehydratase (A8BBC6_GIAIC)	GL50803_24662
+A8BSG2	Threonyl-tRNA synthetase (A8BSG2_GIAIC)	GL50803_13998
+D3KG16	Uncharacterized protein (D3KG16_GIAIC)	GL50803_16037
+A8BSI3	SER_THR_PHOSPHATASE domain-containing protein (A8BSI3_GIAIC)	GL50803_7588
+A8BSJ8	Ankyrin repeat protein 1 (A8BSJ8_GIAIC)	GL50803_88245
+A8BBJ1	FAD-dependent glycerol-3-phosphate dehydrogenase (A8BBJ1_GIAIC)	GL50803_16125
+A8BBI7	Ubiquitin carboxyl-terminal hydrolase (A8BBI7_GIAIC)	GL50803_14460
+A8BBI5	T-complex protein 1 subunit eta (A8BBI5_GIAIC)	GL50803_16124
+A8BTP5	Ankyrin repeat protein 2 (A8BTP5_GIAIC)	GL50803_4843
+A8BTP1	C4 group specific protein (A8BTP1_GIAIC)	GL50803_13747
+A8B314	Aa_trans domain-containing protein (A8B314_GIAIC)	GL50803_7909
+A8BCS1	BRO1 domain-containing protein (A8BCS1_GIAIC)	GL50803_7031
+A8B322	PX domain-containing protein (A8B322_GIAIC)	GL50803_42357
+A8BD57	FACT complex subunit (A8BD57_GIAIC)	GL50803_17430
+A8BD53	Deacetylase sirtuin-type domain-containing protein (A8BD53_GIAIC)	GL50803_10708
+A8B2R7	Protein kinase domain-containing protein (A8B2R7_GIAIC)	GL50803_15514
+A8BTU8	Protein kinase domain-containing protein (A8BTU8_GIAIC)	GL50803_137695
+A8B343	PX domain-containing protein (A8B343_GIAIC)	GL50803_7723
+A8B361	ABC transporter domain-containing protein (A8B361_GIAIC)	GL50803_16592
+A8B374	Phosphorylase B kinase gamma catalytic chain (A8B374_GIAIC)	GL50803_95563
+A8B2X0	Seryl-tRNA synthetase (A8B2X0_GIAIC)	GL50803_101501
+A8B2X2	L-serine dehydratase (A8B2X2_GIAIC)	GL50803_15090
+A8B1Y4	Ankyrin repeat protein 1 (A8B1Y4_GIAIC)	GL50803_10632
+A8BCB4	ABC transporter domain-containing protein (A8BCB4_GIAIC)	GL50803_87446
+A8BTG5	Rav1p_C domain-containing protein (A8BTG5_GIAIC)	GL50803_93550
+A8BTG2	M16C_associated domain-containing protein (A8BTG2_GIAIC)	GL50803_93551
+A8BCE6	Uncharacterized protein (A8BCE6_GIAIC)	GL50803_8854
+A8BCE5	Flagellar exit site protein (A8BCE5_GIAIC)	GL50803_8855
+A8BCJ6	Uncharacterized protein (A8BCJ6_GIAIC)	GL50803_22543
+A8BUP8	TCP-1 chaperonin subunit zeta (A8BUP8_GIAIC)	GL50803_10231
+A8B3M2	CTP synthase (A8B3M2_GIAIC)	GL50803_4507
+A8BUQ4	Chaperone protein DnaJ (A8BUQ4_GIAIC)	GL50803_15148
+A8BDQ0	Coatomer beta' subunit (A8BDQ0_GIAIC)	GL50803_9593
+A8BE31	Uncharacterized protein (A8BE31_GIAIC)	GL50803_16648
+A8BV45	Cation_ATPase_N domain-containing protein (A8BV45_GIAIC)	GL50803_96670
+A8BV67	Uncharacterized protein (A8BV67_GIAIC)	GL50803_7130
+A8B433	Farnesyl diphosphate synthase (A8B433_GIAIC)	GL50803_6633
+D3KHZ8	Uncharacterized protein (D3KHZ8_GIAIC)	GL50803_6933
+A8B3S4	BRO1 domain-containing protein (A8B3S4_GIAIC)	GL50803_103709
+A8B3T0	Multidrug resistance-associated protein 1 (A8B3T0_GIAIC)	GL50803_28379
+A8B3U7	Nucleotide-binding protein 1 (A8B3U7_GIAIC)	GL50803_14604
+A8B467	Uncharacterized protein (A8B467_GIAIC)	GL50803_6464
+A8B476	MRP-like ABC transporter (A8B476_GIAIC)	GL50803_17132
+A8BUZ8	Putative Lecithin-cholesterol acyl transferase (A8BUZ8_GIAIC)	GL50803_24603
+A8BVA5	TMP55 (A8BVA5_GIAIC)	GL50803_137641
+D3KHL8	SWIRM domain-containing protein (D3KHL8_GIAIC)	GL50803_8125
+A8B3A0	Ankyrin repeat protein 1 (A8B3A0_GIAIC)	GL50803_24842
+A8BUI2	Uncharacterized protein (A8BUI2_GIAIC)	GL50803_4266
+D3KI74	Uncharacterized protein (D3KI74_GIAIC)	GL50803_14758
+A8BDH0	Kinase, NEK (A8BDH0_GIAIC)	GL50803_9421
+A8BUK9	Dynein heavy chain, putative (A8BUK9_GIAIC)	GL50803_100906
+A8BUM7	Uncharacterized protein (A8BUM7_GIAIC)	GL50803_6617
+D3KHR6	Uncharacterized protein (D3KHR6_GIAIC)	GL50803_103125
+A8B3L0	Uncharacterized protein (A8B3L0_GIAIC)	GL50803_4627
+D3KHQ2	BEACH domain-containing protein (D3KHQ2_GIAIC)	GL50803_86593
+A8BNB4	Dynein heavy chain (A8BNB4_GIAIC)	GL50803_93736
+A8BNI1	M16C_associated domain-containing protein (A8BNI1_GIAIC)	GL50803_9508
+A8BNL1	ZPR1 (A8BNL1_GIAIC)	GL50803_8842
+A8BMP0	Asparaginase (A8BMP0_GIAIC)	GL50803_7865
+A0A644F4Z1	Ankyrin repeat protein 1 (A0A644F4Z1_GIAIC)	GL50803_0060569
+A8BNT2	Spindle pole protein, putative (A8BNT2_GIAIC)	GL50803_17055
+A0A644F4A6	Uncharacterized protein (A0A644F4A6_GIAIC)	GL50803_0060562
+A8BQ17	PCI domain-containing protein (A8BQ17_GIAIC)	GL50803_16659
+A8BPT7	ANK_REP_REGION domain-containing protein (A8BPT7_GIAIC)	GL50803_4383
+A8BP53	Protein kinase domain-containing protein (A8BP53_GIAIC)	GL50803_10609
+A8BPA7	Protein kinase domain-containing protein (A8BPA7_GIAIC)	GL50803_112076
+A8BQI2	EGF-like domain-containing protein (A8BQI2_GIAIC)	GL50803_114210
+A8BQI1	Phosphatidylinositol transfer protein alpha isoform (A8BQI1_GIAIC)	GL50803_4197
+A8BR17	D123 family protein (A8BR17_GIAIC)	GL50803_7593
+A8BA49	Uncharacterized protein (A8BA49_GIAIC)	GL50803_16507
+A8BQT7	ABC transporter domain-containing protein (A8BQT7_GIAIC)	GL50803_16575
+A8BR51	Uncharacterized protein (A8BR51_GIAIC)	GL50803_94762
+A8BA54	Uncharacterized protein (A8BA54_GIAIC)	GL50803_16504
+A8BR64	ANK_REP_REGION domain-containing protein (A8BR64_GIAIC)	GL50803_115478
+A8BQU3	WD_REPEATS_REGION domain-containing protein (A8BQU3_GIAIC)	GL50803_15054
+A8BR71	WD_REPEATS_REGION domain-containing protein (A8BR71_GIAIC)	GL50803_2562
+A8BQW1	ATP-dependent RNA helicase-like protein (A8BQW1_GIAIC)	GL50803_15048
+A8BPW2	Protein kinase domain-containing protein (A8BPW2_GIAIC)	GL50803_12223
+A8BIZ4	Protein kinase domain-containing protein (A8BIZ4_GIAIC)	GL50803_14364
+A8B9A6	MFS domain-containing protein (A8B9A6_GIAIC)	GL50803_114777
+A8B9B7	Alpha-SNAP, putative (A8B9B7_GIAIC)	GL50803_17224
+A8B9C5	IFT complex B (A8B9C5_GIAIC)	GL50803_17223
+A8B9H1	Ankyrin repeat protein 3 (A8B9H1_GIAIC)	GL50803_12139
+A8BIH3	Uncharacterized protein (A8BIH3_GIAIC)	GL50803_15376
+A8BIJ2	S1 motif domain-containing protein (A8BIJ2_GIAIC)	GL50803_13943
+A8BIL0	SEC7 domain-containing protein (A8BIL0_GIAIC)	GL50803_17192
+A8B8M9	Phosphoinositide-3-kinase, class 3 (A8B8M9_GIAIC)	GL50803_17406
+A8BIN5	Uncharacterized protein (A8BIN5_GIAIC)	GL50803_21474
+A8BJ08	Ubiquitin-like domain-containing protein (A8BJ08_GIAIC)	GL50803_7110
+A8BJ21	Glycogen [starch] synthase (A8BJ21_GIAIC)	GL50803_104031
+A8B918	Ankyrin repeat protein 1 (A8B918_GIAIC)	GL50803_14434
+A8BJ55	Kinase, NEK (A8BJ55_GIAIC)	GL50803_102034
+A8B8R9	T-complex protein 1 subunit gamma (A8B8R9_GIAIC)	GL50803_17411
+A8BJ72	RING-type domain-containing protein (A8BJ72_GIAIC)	GL50803_17109
+A8B8T3	RRM domain-containing protein (A8B8T3_GIAIC)	GL50803_15495
+A8B8T1	CDC19 (A8B8T1_GIAIC)	GL50803_17413
+A8BIV9	Non-specific serine/threonine protein kinase (A8BIV9_GIAIC)	GL50803_35180
+A8BIX7	Uncharacterized protein (A8BIX7_GIAIC)	GL50803_32730
+A0A644F0J2	Uncharacterized protein (A0A644F0J2_GIAIC)	GL50803_0061304
+A8BKB6	Uncharacterized protein (A8BKB6_GIAIC)	GL50803_10181
+A8BJK2	Uncharacterized protein (A8BJK2_GIAIC)	GL50803_10778
+A8B9R4	ABC transporter, ATP-binding protein (A8B9R4_GIAIC)	GL50803_21411
+A8BK61	Nop domain-containing protein (A8BK61_GIAIC)	GL50803_10577
+A8BK70	SEC7 domain-containing protein (A8BK70_GIAIC)	GL50803_112258
+A0A644F037	SUN domain-containing protein (A0A644F037_GIAIC)	GL50803_0061270
+A8B9U2	Cation_ATPase_N domain-containing protein (A8B9U2_GIAIC)	GL50803_32658
+A0A644F001	Dynein heavy chain (A0A644F001_GIAIC)	GL50803_0037985
+A8BLD9	Kinase, NEK (A8BLD9_GIAIC)	GL50803_17231
+A8BLH2	Uncharacterized protein (A8BLH2_GIAIC)	GL50803_17236
+A8BKW6	Uncharacterized protein (A8BKW6_GIAIC)	GL50803_16929
+A0A644F391	Transporter, MFS superfamily protein (A0A644F391_GIAIC)	GL50803_0040224
+A8BKZ4	R-SNARE 3 (A8BKZ4_GIAIC)	GL50803_14469
+A8BMA4	Uncharacterized protein (A8BMA4_GIAIC)	GL50803_96732
+A8BMB1	NFACT-R_1 domain-containing protein (A8BMB1_GIAIC)	GL50803_4043
+E2RU18	Phosphoglucomutase (E2RU18_GIAIC)	GL50803_17254
+E2RTP2	Chaperone protein DnaK HSP70 (E2RTP2_GIAIC)	GL50803_14581
+E2RU13	Fe-hydrogenase-1 (E2RU13_GIAIC)	GL50803_6304
+E2RTR0	CCT-alpha (E2RTR0_GIAIC)	GL50803_91919
+E2RTR2	Alpha-1,4 glucan phosphorylase (E2RTR2_GIAIC)	GL50803_6226
+E2RU38	AAA domain-containing protein (E2RU38_GIAIC)	GL50803_113554
+E2RU25	Leucine-rich repeat protein (E2RU25_GIAIC)	GL50803_4039
+E2RTQ4	t-SNARE coiled-coil homology domain-containing protein (E2RTQ4_GIAIC)	GL50803_7309
+A8BML6	Spindle pole protein, putative (A8BML6_GIAIC)	GL50803_24537
+E2RU95	PNP_UDP_1 domain-containing protein (E2RU95_GIAIC)	GL50803_9779
+A8BM10	Multidrug resistance-associated protein 1 (A8BM10_GIAIC)	GL50803_115052
+E2RTY6	Glucose-6-phosphate isomerase (E2RTY6_GIAIC)	GL50803_9115
+E2RTT5	AP complex subunit sigma (E2RTT5_GIAIC)	GL50803_5328
+E2RU41	Isoleucyl-tRNA synthetase (E2RU41_GIAIC)	GL50803_104173
+E2RTS3	RNase L inhibitor (E2RTS3_GIAIC)	GL50803_7662
+E2RU45	Vacuolar protein sorting 35 (E2RU45_GIAIC)	GL50803_23833
+E2RTV5	Disc-associated protein (E2RTV5_GIAIC)	GL50803_16424
+E2RTV1	TCP-1 chaperonin subunit epsilon (E2RTV1_GIAIC)	GL50803_11992
